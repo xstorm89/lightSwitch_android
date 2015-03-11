@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HTTP Light Switch</string>
+    <string name="turn_lights_on">Turn the lights ON</string>
+    <string name="turn_lights_off">Turn the lights OFF</string>
+    <string name="getting_status">Getting Status...</string>
+    <string name="lights_are_off">Lights are now OFF :(</string>
+    <string name="light_are_on">Lights are now ON :)</string>
+
+    <!-- About this app -->
+    <string name="about_title">About this App</string>
+    <string name="about_description">This is a simple home-automation tool that relies on
+        HTTP requests being sent back and forth from an Android app to a Python script
+        running on a Raspberry Pi to remotely turn lights or other devices on and off.</string>
+    <string name="about_more_info">More info @ https://github.com/fknussel/light-switch</string>
+
+    <!-- Menu -->
+    <string name="action_about">About</string>
+    <string name="go_back">Go Back</string>
+
+</resources>

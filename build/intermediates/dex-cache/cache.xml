@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\迅\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.7.1\168a878946d665200edc733ac715b1264a6cd7b6\retrofit-1.7.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="168a878946d665200edc733ac715b1264a6cd7b6">
+        <dex dex="D:\Application\eclipse\workspace_Android\LightSwitch-master\LightSwitch\app\build\intermediates\pre-dexed\debug\retrofit-1.7.1-13f8a24e825773cd49319dd7712ebc835c866144.jar" />
+    </item>
+    <item
+        jar="C:\Users\迅\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\Application\eclipse\workspace_Android\LightSwitch-master\LightSwitch\app\build\intermediates\pre-dexed\debug\gson-2.3-2d98fd85e551b85b341bb19d74742821b2d0ad65.jar" />
+    </item>
+    <item
+        jar="C:\Users\迅\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\Application\eclipse\workspace_Android\LightSwitch-master\LightSwitch\app\build\intermediates\pre-dexed\debug\gson-2.3-2d98fd85e551b85b341bb19d74742821b2d0ad65.jar" />
+    </item>
+    <item
+        jar="C:\Users\迅\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.7.1\168a878946d665200edc733ac715b1264a6cd7b6\retrofit-1.7.1.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="168a878946d665200edc733ac715b1264a6cd7b6">
+        <dex dex="D:\Application\eclipse\workspace_Android\LightSwitch-master\LightSwitch\app\build\intermediates\pre-dexed\debug\retrofit-1.7.1-13f8a24e825773cd49319dd7712ebc835c866144.jar" />
+    </item>
+
+</items>
